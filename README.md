@@ -1,2 +1,2 @@
 README.md
-# git desde cero
+# git desde cero en EDteam
